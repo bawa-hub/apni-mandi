@@ -38,7 +38,7 @@ const Home = () => {
   return (
     <Layout
       title="Welcome To Apni Mandi"
-      description="Node React E-commerce App"
+      description="Sabji mandi in your hand"
       className="container-fluid"
     >
       <Search />
